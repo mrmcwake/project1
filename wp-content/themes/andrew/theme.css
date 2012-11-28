@@ -1,0 +1,30 @@
+body {
+  background: #e1e8c8;
+}
+#page {
+  background: #3c476c;
+}
+header {
+  background: #197985;
+}
+footer {
+  background: #197985;
+}
+h1 {
+  color: #b8a937;
+}
+h2 {
+  color: #197985;
+}
+h3 {
+  color: #25b4c5;
+}
+h4 {
+  color: #0d3e45;
+}
+h5 {
+  color: #7d7325;
+}
+h6 {
+  color: #195585;
+}
